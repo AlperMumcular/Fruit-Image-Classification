@@ -3,8 +3,8 @@ This model takes a picture as an input and predicts what the fruit in the pictur
 
 Used Models:
 
-Random Forest Classifier         (scikit-learn)
+Random Forest Classifier --------->scikit-learn
 
-Gaussian Naive Bayes Classifier  (scikit-learn)
+Gaussian Naive Bayes Classifier -->scikit-learn
 
-Convolutional Neural Network     (Keras - Tensorflow)
+Convolutional Neural Network ----->Keras - Tensorflow
