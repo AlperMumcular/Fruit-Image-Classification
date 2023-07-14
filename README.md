@@ -7,4 +7,4 @@ Random Forest Classifier ------------>scikit-learn
 
 Gaussian Naive Bayes Classifier ----->scikit-learn
 
-Convolutional Neural Network ----->Keras - Tensorflow
+Convolutional Neural Network ------>Keras - Tensorflow
